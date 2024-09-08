@@ -48,3 +48,6 @@ Este projeto está licenciado sob a licença MIT.
 
 Agradeço a todos que contribuíram para este projeto!
 
+**Link de acesso**
+https://game-zone-ten.vercel.app
+
