@@ -1,4 +1,4 @@
-## GameZone: Seu Portal Gamer Personalizado! 
+## GameZone: Seu Portal Gamer Personalizado! - Imersão Dev Alura x Google Gemini
 
 **O que é o GameZone?**
 
